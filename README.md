@@ -327,7 +327,7 @@ qcc -Vgcc_ntox86_64 -lm -o waste_scheduler waste_scheduler.c
 
 ## Team
 
-**Team Name:** Deadline Drivers  
+**Team Name:** Trash Track  
 **Hackathon:** QNX eHACK 2026  
 **Problem Statement:** SL37 — Intelligent Waste Collection Scheduler
 
